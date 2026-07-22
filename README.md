@@ -20,7 +20,3 @@
 
 
 <br />
-
-<div align="center">
-  <sub>Créé avec ❤️ par At0m_W</sub>
-</div>
