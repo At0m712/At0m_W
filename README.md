@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/At0m712">
-    <img width="100"src="https://github.com/At0m712/At0m_W/blob/cd64dbad3eaa833eeb59a715222b4c50930f006d/erasebg-transformed%20(5).png">
+    <img width="100"src="logo_atom.png">
   </a>
 </p>
 <h1 align="center">At0m712</h1>
